@@ -1,1 +1,3 @@
 # prune
+
+From branch foo
